@@ -1,11 +1,5 @@
 .DS_Store
-codeship.aes
 .vscode
 .idea
-coverage.txt
-
-# CodeShip
-*.aes
-codeship.env
 
 bin
